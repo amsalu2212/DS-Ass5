@@ -1,4 +1,4 @@
-# DS-A5 — Time-Series Rolling Evaluation Lab
+# DS-A5 - Time-Series Rolling Evaluation Lab
 
 **Student:** Amsalu Tessema Adgeh  
 **ID:** 2026A8000929002  
