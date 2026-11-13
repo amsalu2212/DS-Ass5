@@ -1,6 +1,17 @@
-numpy==2.2.6
+# Data Science Assignment 5 - Time-Series Rolling Evaluation Lab
+# Student: AmsaluTessema Adgeh (ID 2026A8000929002)
+# Python: 3.13.x (executed run: Python 3.13.18, Linux x86_64)
+# Install: pip install -r requirements.txt
+# Core scientific stack: 
+numpy==2.4.6
 pandas==2.2.3
+scipy==1.16.3
 scikit-learn==1.6.1
-matplotlib==3.10.3
-jupyter==1.1.1
-nbformat==5.10.4
+matplotlib==3.10.0
+# Notebook runtime (needed to run "Restart & Run All" locally; not imported by the code itself).
+jupyter
+ipykernel
+
+# Everything else the notebook imports is the Python standard library
+# (os, sys, json, hashlib, random, platform, subprocess, zipfile, urllib, warnings, time,
+#  textwrap, math, datetime, pathlib) and needs no installation.
